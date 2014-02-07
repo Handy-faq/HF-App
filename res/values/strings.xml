@@ -176,7 +176,7 @@
     <string name="nexus_4_threadname9">TWRP Themes installieren</string>
     <string name="nexus_4_threadname10">Firmware updaten / flashen</string>
     <string name="nexus_4_threadname11">Android-Upgrade ohne Wipe</string>
-    <string name="nexus_4_threadname12">Standortzugriff aktivieren/ eaktivieren</string>
+    <string name="nexus_4_threadname12">Standortzugriff aktivieren/deaktivieren</string>
     <string name="nexus_4_threadname13">Farbeinstellungen bei Custom-Kernel</string>
     <string name="nexus_4_threadname14">Nexus Louder Mod</string>
     <string name="tab_2_threadname14">ClockworkMod &amp; TWRP Recovery</string>
