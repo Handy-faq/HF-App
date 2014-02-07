@@ -126,349 +126,353 @@
             </PreferenceScreen>
         </PreferenceScreen>
         <PreferenceScreen android:title="@string/nexus_handy">
-            <PreferenceScreen android:title="@string/nexus_o" android:summary="@string/nexus_o.1">
-                <Preference android:title="@string/nexus_o_threadname1" android:key="nexus_o_threadname1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link1" />
-                </Preference>
-                <Preference android:title="@string/nexus_o_threadname2" android:key="nexus_o_threadname2">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link2" />
-                </Preference>
-                <Preference android:title="@string/nexus_o_threadname3" android:key="nexus_o_threadname3" android:summary="@string/nexus_o_threadname3.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link3" />
-                </Preference>
-                <Preference android:title="@string/nexus_o_threadname4" android:key="nexus_o_threadname4">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link4" />
-                </Preference>
-                <Preference android:title="@string/nexus_o_threadname5" android:key="nexus_o_threadname5">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link5" />
-                </Preference>
-                <Preference android:title="@string/nexus_o_threadname6" android:key="nexus_o_threadname6" android:summary="@string/nexus_o_threadname6.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link6" />
-                </Preference>
-                <Preference android:title="@string/nexus_o_threadname7" android:key="nexus_o_threadname7">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link7" />
-                </Preference>
-                <Preference android:title="@string/nexus_o_threadname8" android:key="nexus_o_threadname8">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link8" />
-                </Preference>
-                <Preference android:title="@string/nexus_o_threadname9" android:key="nexus_o_threadname9">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link9" />
-                </Preference>
-                <Preference android:title="@string/nexus_o_threadname10" android:key="nexus_o_threadname10">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link10" />
-                </Preference>
-                <Preference android:title="@string/nexus_o_threadname11" android:key="nexus_o_threadname11">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link11" />
-                </Preference>
-                <Preference android:title="@string/nexus_o_threadname12" android:key="nexus_o_threadname12">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link12" />
-                </Preference>
-                <Preference android:title="@string/nexus_o_threadname13" android:key="nexus_o_threadname13">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link13" />
-                </Preference>
-            </PreferenceScreen>
-            <PreferenceScreen android:title="@string/nexus_s" android:summary="@string/nexus_s.1">
-                <Preference android:title="@string/nexus_s_threadname1" android:key="nexus_s_threadname1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_s_thread_link1" />
-                </Preference>
-                <Preference android:title="@string/nexus_s_threadname2" android:key="nexus_s_threadname2">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_s_thread_link2" />
-                </Preference>
-                <Preference android:title="@string/nexus_s_threadname3" android:key="nexus_s_threadname3">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_s_thread_link3" />
-                </Preference>
-                <Preference android:title="@string/nexus_s_threadname4" android:key="nexus_s_threadname4" android:summary="@string/nexus_s_threadname4.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_s_thread_link4" />
-                </Preference>
-                <Preference android:title="@string/nexus_s_threadname5" android:key="nexus_s_threadname5" android:summary="@string/nexus_s_threadname5.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_s_thread_link5" />
-                </Preference>
-                <Preference android:title="@string/nexus_s_threadname6" android:key="nexus_s_threadname6" android:summary="@string/nexus_s_threadname6.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_s_thread_link6" />
-                </Preference>
-                <Preference android:title="@string/nexus_s_threadname7" android:key="nexus_s_threadname7">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_s_thread_link7" />
-                </Preference>
-                <Preference android:title="@string/nexus_s_threadname8" android:key="nexus_s_threadname8">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_s_thread_link8" />
-                </Preference>
-                <Preference android:title="@string/nexus_s_threadname9" android:key="nexus_s_threadname9">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_s_thread_link9" />
-                </Preference>
-                <Preference android:title="@string/nexus_s_threadname10" android:key="nexus_s_threadname10">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_s_thread_link10" />
-                </Preference>
-            </PreferenceScreen>
-            <PreferenceScreen android:title="@string/nexus_p" android:summary="@string/nexus_p.1">
-                <Preference android:title="@string/nexus_p_threadname1" android:key="nexus_p_threadname1" android:summary="@string/nexus_p_threadname1.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link1" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname2" android:key="nexus_p_threadname2">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link2" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname3" android:key="nexus_p_threadname3" android:summary="@string/nexus_p_threadname3.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link3" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname4" android:key="nexus_p_threadname4" android:summary="@string/nexus_p_threadname4.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link4" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname5" android:key="nexus_p_threadname5">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link5" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname6" android:key="nexus_p_threadname6">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link6" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname7" android:key="nexus_p_threadname7">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link7" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname8" android:key="nexus_p_threadname8">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link8" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname9" android:key="nexus_p_threadname9">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link9" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname10" android:key="nexus_p_threadname10" android:summary="@string/nexus_p_threadname10.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link10" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname11" android:key="nexus_p_threadname11" android:summary="@string/nexus_p_threadname11.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link11" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname12" android:key="nexus_p_threadname12" android:summary="@string/nexus_p_threadname12.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link12" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname13" android:key="nexus_p_threadname13" android:summary="@string/nexus_p_threadname13.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link13" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname14" android:key="nexus_p_threadname14" android:summary="@string/nexus_p_threadname14.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link14" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname15" android:key="nexus_p_threadname15">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link15" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname16" android:key="nexus_p_threadname16">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link16" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname17" android:key="nexus_p_threadname17">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link17" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname18" android:key="nexus_p_threadname18">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link18" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname19" android:key="nexus_p_threadname19">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link19" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname20" android:key="nexus_p_threadname20">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link20" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname21" android:key="nexus_p_threadname21">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link21" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname22" android:key="nexus_p_threadname22">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link22" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname23" android:key="nexus_p_threadname23">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link23" />
-                </Preference>
-                <Preference android:title="@string/nexus_p_threadname24" android:key="nexus_p_threadname24">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link24" />
-                </Preference>
-            </PreferenceScreen>
-            <PreferenceScreen android:title="@string/nexus_4" android:summary="@string/nexus_4.1">
-                <Preference android:title="@string/nexus_4_threadname1" android:key="nexus_4_threadname1" android:summary="@string/nexus_4_threadname1.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link1" />
-                </Preference>
-                <Preference android:title="@string/nexus_4_threadname2" android:key="nexus_4_threadname2" android:summary="@string/nexus_4_threadname2.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link2" />
-                </Preference>
-                <Preference android:title="@string/nexus_4_threadname3" android:key="nexus_4_threadname3">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link3" />
-                </Preference>
-                <Preference android:title="@string/nexus_4_threadname4" android:key="nexus_4_threadname4">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link4" />
-                </Preference>
-                <Preference android:title="@string/nexus_4_threadname5" android:key="nexus_4_threadname5" android:summary="@string/nexus_4_threadname5.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link5" />
-                </Preference>
-                <Preference android:title="@string/nexus_4_threadname6" android:key="nexus_4_threadname6">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link6" />
-                </Preference>
-                <Preference android:title="@string/nexus_4_threadname7" android:key="nexus_4_threadname7" android:summary="@string/nexus_4_threadname7.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link7" />
-                </Preference>
-                <Preference android:title="@string/nexus_4_threadname8" android:key="nexus_4_threadname8" android:summary="@string/nexus_4_threadname8.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link8" />
-                </Preference>
-                <Preference android:title="@string/nexus_4_threadname9" android:key="nexus_4_threadname9">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link9" />
-                </Preference>
-                <Preference android:title="@string/nexus_4_threadname10" android:key="nexus_4_threadname10">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link10" />
-                </Preference>
-                <Preference android:title="@string/nexus_4_threadname11" android:key="nexus_4_threadname11">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link11" />
-                </Preference>
-                <Preference android:title="@string/nexus_4_threadname12" android:key="nexus_4_threadname12">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link12" />
-                </Preference>
-                <Preference android:title="@string/nexus_4_threadname13" android:key="nexus_4_threadname13">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link13" />
-                </Preference>
-                <Preference android:title="@string/nexus_4_threadname14" android:key="nexus_4_threadname14">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link14" />
-                </Preference>
-                <Preference android:title="@string/nexus_4_threadname15" android:key="nexus_4_threadname15">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link15" />
-                </Preference>
-                <Preference android:title="@string/nexus_4_threadname16" android:key="nexus_4_threadname16">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link16" />
-                </Preference>
-                <Preference android:title="@string/nexus_4_threadname17" android:key="nexus_4_threadname17">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link17" />
-                </Preference>
-            </PreferenceScreen>
-            <PreferenceScreen android:title="@string/nexus_5" android:summary="@string/nexus_5.1">
-                <Preference android:title="@string/nexus_5_threadname1" android:key="nexus_5_threadname1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link1" />
-                </Preference>
-                <Preference android:title="@string/nexus_5_threadname2" android:key="nexus_5_threadname2" android:summary="@string/nexus_5_threadname2.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link2" />
-                </Preference>
-                <Preference android:title="@string/nexus_5_threadname3" android:key="nexus_5_threadname3" android:summary="@string/nexus_5_threadname3.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link3" />
-                </Preference>
-                <Preference android:title="@string/nexus_5_threadname4" android:key="nexus_5_threadname4">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link4" />
-                </Preference>
-                <Preference android:title="@string/nexus_5_threadname5" android:key="nexus_5_threadname5" android:summary="@string/nexus_5_threadname5.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link5" />
-                </Preference>
-                <Preference android:title="@string/nexus_5_threadname6" android:key="nexus_5_threadname6" android:summary="@string/nexus_5_threadname6.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link6" />
-                </Preference>
-                <Preference android:title="@string/nexus_5_threadname7" android:key="nexus_5_threadname7" android:summary="@string/nexus_5_threadname7.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link7" />
-                </Preference>
-                <Preference android:title="@string/nexus_5_threadname8" android:key="nexus_5_threadname8">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link8" />
-                </Preference>
-                <Preference android:title="@string/nexus_5_threadname9" android:key="nexus_5_threadname9">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link9" />
-                </Preference>
-                <Preference android:title="@string/nexus_5_threadname10" android:key="nexus_5_threadname10">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link10" />
-                </Preference>
-                <Preference android:title="@string/nexus_5_threadname11" android:key="nexus_5_threadname11" android:summary="@string/nexus_5_threadname11.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link11" />
-                </Preference>
-                <Preference android:title="@string/nexus_5_threadname12" android:key="nexus_5_threadname12">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link12" />
-                </Preference>
-            </PreferenceScreen>
-            <PreferenceScreen android:title="@string/nexus_7" android:summary="@string/nexus_7.1">
-                <Preference android:title="@string/nexus_7_threadname1" android:key="nexus_7_threadname1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link1" />
-                </Preference>
-                <Preference android:title="@string/nexus_7_threadname2" android:key="nexus_7_threadname2" android:summary="@string/nexus_7_threadname2.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link2" />
-                </Preference>
-                <Preference android:title="@string/nexus_7_threadname3" android:key="nexus_7_threadname3" android:summary="@string/nexus_7_threadname3.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link3" />
-                </Preference>
-                <Preference android:title="@string/nexus_7_threadname4" android:key="nexus_7_threadname4">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link4" />
-                </Preference>
-                <Preference android:title="@string/nexus_7_threadname5" android:key="nexus_7_threadname5">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link5" />
-                </Preference>
-                <Preference android:title="@string/nexus_7_threadname6" android:key="nexus_7_threadname6" android:summary="@string/nexus_7_threadname6.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link6" />
-                </Preference>
-                <Preference android:title="@string/nexus_7_threadname7" android:key="nexus_7_threadname7">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link7" />
-                </Preference>
-                <Preference android:title="@string/nexus_7_threadname8" android:key="nexus_7_threadname8">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link8" />
-                </Preference>
-                <Preference android:title="@string/nexus_7_threadname9" android:key="nexus_7_threadname9">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link9" />
-                </Preference>
-                <Preference android:title="@string/nexus_7_threadname10" android:key="nexus_7_threadname10">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link10" />
-                </Preference>
-                <Preference android:title="@string/nexus_7_threadname11" android:key="nexus_7_threadname11">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link11" />
-                </Preference>
-                <Preference android:title="@string/nexus_7_threadname12" android:key="nexus_7_threadname12">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link12" />
-                </Preference>
-                <Preference android:title="@string/nexus_7_threadname13" android:key="nexus_7_threadname13">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link13" />
-                </Preference>
-            </PreferenceScreen>
-            <PreferenceScreen android:title="@string/nexus_7.2" android:summary="@string/nexus_7.2.1">
-                <Preference android:title="@string/nexus_7.2_threadname1" android:key="nexus_7.2_threadname1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link1" />
-                </Preference>
-                <Preference android:title="@string/nexus_7.2_threadname2" android:key="nexus_7.2_threadname2" android:summary="@string/nexus_7.2_threadname2.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link2" />
-                </Preference>
-                <Preference android:title="@string/nexus_7.2_threadname3" android:key="nexus_7.2_threadname3" android:summary="@string/nexus_7.2_threadname3.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link3" />
-                </Preference>
-                <Preference android:title="@string/nexus_7.2_threadname4" android:key="nexus_7.2_threadname4">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link4" />
-                </Preference>
-                <Preference android:title="@string/nexus_7.2_threadname5" android:key="nexus_7.2_threadname5">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link5" />
-                </Preference>
-                <Preference android:title="@string/nexus_7.2_threadname6" android:key="nexus_7.2_threadname6" android:summary="@string/nexus_7.2_threadname6.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link6" />
-                </Preference>
-                <Preference android:title="@string/nexus_7.2_threadname7" android:key="nexus_7.2_threadname7" android:summary="@string/nexus_7.2_threadname7.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link7" />
-                </Preference>
-                <Preference android:title="@string/nexus_7.2_threadname8" android:key="nexus_7.2_threadname8">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link8" />
-                </Preference>
-                <Preference android:title="@string/nexus_7.2_threadname9" android:key="nexus_7.2_threadname9">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link9" />
-                </Preference>
-                <Preference android:title="@string/nexus_7.2_threadname10" android:key="nexus_7.2_threadname10">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link10" />
-                </Preference>
-                <Preference android:title="@string/nexus_7.2_threadname11" android:key="nexus_7.2_threadname11" android:summary="@string/nexus_7.2_threadname11.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link11" />
-                </Preference>
-            </PreferenceScreen>
-            <PreferenceScreen android:title="@string/nexus_10" android:summary="@string/nexus_10.1">
-                <Preference android:title="@string/nexus_10_threadname1" android:key="nexus_10_threadname1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_10_thread_link1" />
-                </Preference>
-                <Preference android:title="@string/nexus_10_threadname2" android:key="nexus_10_threadname2">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_10_thread_link2" />
-                </Preference>
-                <Preference android:title="@string/nexus_10_threadname3" android:key="nexus_10_threadname3">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_10_thread_link3" />
-                </Preference>
-                <Preference android:title="@string/nexus_10_threadname4" android:key="nexus_10_threadname4">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_10_thread_link4" />
-                </Preference>
-                <Preference android:title="@string/nexus_10_threadname5" android:key="nexus_10_threadname5" android:summary="@string/nexus_10_threadname5.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_10_thread_link5" />
-                </Preference>
-                <Preference android:title="@string/nexus_10_threadname6" android:key="nexus_10_threadname6" android:summary="@string/nexus_10_threadname6.1">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_10_thread_link6" />
-                </Preference>
-                <Preference android:title="@string/nexus_10_threadname7" android:key="nexus_10_threadname7">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_10_thread_link7" />
-                </Preference>
-                <Preference android:title="@string/nexus_10_threadname8" android:key="nexus_10_threadname8">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_10_thread_link8" />
-                </Preference>
-                <Preference android:title="@string/nexus_10_threadname9" android:key="nexus_10_threadname9">
-                    <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_10_thread_link9" />
-                </Preference>
-            </PreferenceScreen>
+            <PreferenceCategory android:title="@string/nexus_phone">
+                <PreferenceScreen android:title="@string/nexus_o" android:summary="@string/nexus_o.1">
+                    <Preference android:title="@string/nexus_o_threadname1" android:key="nexus_o_threadname1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link1" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_o_threadname2" android:key="nexus_o_threadname2">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link2" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_o_threadname3" android:key="nexus_o_threadname3" android:summary="@string/nexus_o_threadname3.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link3" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_o_threadname4" android:key="nexus_o_threadname4">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link4" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_o_threadname5" android:key="nexus_o_threadname5">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link5" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_o_threadname6" android:key="nexus_o_threadname6" android:summary="@string/nexus_o_threadname6.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link6" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_o_threadname7" android:key="nexus_o_threadname7">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link7" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_o_threadname8" android:key="nexus_o_threadname8">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link8" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_o_threadname9" android:key="nexus_o_threadname9">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link9" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_o_threadname10" android:key="nexus_o_threadname10">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link10" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_o_threadname11" android:key="nexus_o_threadname11">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link11" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_o_threadname12" android:key="nexus_o_threadname12">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link12" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_o_threadname13" android:key="nexus_o_threadname13">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_o_thread_link13" />
+                    </Preference>
+                </PreferenceScreen>
+                <PreferenceScreen android:title="@string/nexus_s" android:summary="@string/nexus_s.1">
+                    <Preference android:title="@string/nexus_s_threadname1" android:key="nexus_s_threadname1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_s_thread_link1" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_s_threadname2" android:key="nexus_s_threadname2">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_s_thread_link2" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_s_threadname3" android:key="nexus_s_threadname3">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_s_thread_link3" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_s_threadname4" android:key="nexus_s_threadname4" android:summary="@string/nexus_s_threadname4.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_s_thread_link4" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_s_threadname5" android:key="nexus_s_threadname5" android:summary="@string/nexus_s_threadname5.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_s_thread_link5" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_s_threadname6" android:key="nexus_s_threadname6" android:summary="@string/nexus_s_threadname6.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_s_thread_link6" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_s_threadname7" android:key="nexus_s_threadname7">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_s_thread_link7" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_s_threadname8" android:key="nexus_s_threadname8">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_s_thread_link8" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_s_threadname9" android:key="nexus_s_threadname9">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_s_thread_link9" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_s_threadname10" android:key="nexus_s_threadname10">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_s_thread_link10" />
+                    </Preference>
+                </PreferenceScreen>
+                <PreferenceScreen android:title="@string/nexus_p" android:summary="@string/nexus_p.1">
+                    <Preference android:title="@string/nexus_p_threadname1" android:key="nexus_p_threadname1" android:summary="@string/nexus_p_threadname1.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link1" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname2" android:key="nexus_p_threadname2">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link2" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname3" android:key="nexus_p_threadname3" android:summary="@string/nexus_p_threadname3.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link3" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname4" android:key="nexus_p_threadname4" android:summary="@string/nexus_p_threadname4.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link4" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname5" android:key="nexus_p_threadname5">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link5" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname6" android:key="nexus_p_threadname6">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link6" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname7" android:key="nexus_p_threadname7">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link7" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname8" android:key="nexus_p_threadname8">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link8" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname9" android:key="nexus_p_threadname9">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link9" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname10" android:key="nexus_p_threadname10" android:summary="@string/nexus_p_threadname10.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link10" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname11" android:key="nexus_p_threadname11" android:summary="@string/nexus_p_threadname11.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link11" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname12" android:key="nexus_p_threadname12" android:summary="@string/nexus_p_threadname12.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link12" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname13" android:key="nexus_p_threadname13" android:summary="@string/nexus_p_threadname13.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link13" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname14" android:key="nexus_p_threadname14" android:summary="@string/nexus_p_threadname14.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link14" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname15" android:key="nexus_p_threadname15">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link15" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname16" android:key="nexus_p_threadname16">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link16" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname17" android:key="nexus_p_threadname17">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link17" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname18" android:key="nexus_p_threadname18">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link18" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname19" android:key="nexus_p_threadname19">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link19" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname20" android:key="nexus_p_threadname20">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link20" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname21" android:key="nexus_p_threadname21">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link21" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname22" android:key="nexus_p_threadname22">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link22" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname23" android:key="nexus_p_threadname23">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link23" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_p_threadname24" android:key="nexus_p_threadname24">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_p_thread_link24" />
+                    </Preference>
+                </PreferenceScreen>
+                <PreferenceScreen android:title="@string/nexus_4" android:summary="@string/nexus_4.1">
+                    <Preference android:title="@string/nexus_4_threadname1" android:key="nexus_4_threadname1" android:summary="@string/nexus_4_threadname1.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link1" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_4_threadname2" android:key="nexus_4_threadname2" android:summary="@string/nexus_4_threadname2.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link2" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_4_threadname3" android:key="nexus_4_threadname3">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link3" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_4_threadname4" android:key="nexus_4_threadname4">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link4" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_4_threadname5" android:key="nexus_4_threadname5" android:summary="@string/nexus_4_threadname5.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link5" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_4_threadname6" android:key="nexus_4_threadname6">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link6" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_4_threadname7" android:key="nexus_4_threadname7" android:summary="@string/nexus_4_threadname7.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link7" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_4_threadname8" android:key="nexus_4_threadname8" android:summary="@string/nexus_4_threadname8.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link8" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_4_threadname9" android:key="nexus_4_threadname9">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link9" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_4_threadname10" android:key="nexus_4_threadname10">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link10" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_4_threadname11" android:key="nexus_4_threadname11">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link11" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_4_threadname12" android:key="nexus_4_threadname12">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link12" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_4_threadname13" android:key="nexus_4_threadname13">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link13" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_4_threadname14" android:key="nexus_4_threadname14">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link14" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_4_threadname15" android:key="nexus_4_threadname15">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link15" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_4_threadname16" android:key="nexus_4_threadname16">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link16" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_4_threadname17" android:key="nexus_4_threadname17">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_4_thread_link17" />
+                    </Preference>
+                </PreferenceScreen>
+                <PreferenceScreen android:title="@string/nexus_5" android:summary="@string/nexus_5.1">
+                    <Preference android:title="@string/nexus_5_threadname1" android:key="nexus_5_threadname1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link1" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_5_threadname2" android:key="nexus_5_threadname2" android:summary="@string/nexus_5_threadname2.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link2" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_5_threadname3" android:key="nexus_5_threadname3" android:summary="@string/nexus_5_threadname3.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link3" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_5_threadname4" android:key="nexus_5_threadname4">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link4" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_5_threadname5" android:key="nexus_5_threadname5" android:summary="@string/nexus_5_threadname5.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link5" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_5_threadname6" android:key="nexus_5_threadname6" android:summary="@string/nexus_5_threadname6.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link6" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_5_threadname7" android:key="nexus_5_threadname7" android:summary="@string/nexus_5_threadname7.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link7" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_5_threadname8" android:key="nexus_5_threadname8">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link8" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_5_threadname9" android:key="nexus_5_threadname9">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link9" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_5_threadname10" android:key="nexus_5_threadname10">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link10" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_5_threadname11" android:key="nexus_5_threadname11" android:summary="@string/nexus_5_threadname11.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link11" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_5_threadname12" android:key="nexus_5_threadname12">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_5_thread_link12" />
+                    </Preference>
+                </PreferenceScreen>
+            </PreferenceCategory>
+            <PreferenceCategory android:title="@string/nexus_tablet">
+                <PreferenceScreen android:title="@string/nexus_7" android:summary="@string/nexus_7.1">
+                    <Preference android:title="@string/nexus_7_threadname1" android:key="nexus_7_threadname1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link1" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7_threadname2" android:key="nexus_7_threadname2" android:summary="@string/nexus_7_threadname2.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link2" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7_threadname3" android:key="nexus_7_threadname3" android:summary="@string/nexus_7_threadname3.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link3" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7_threadname4" android:key="nexus_7_threadname4">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link4" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7_threadname5" android:key="nexus_7_threadname5">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link5" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7_threadname6" android:key="nexus_7_threadname6" android:summary="@string/nexus_7_threadname6.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link6" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7_threadname7" android:key="nexus_7_threadname7">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link7" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7_threadname8" android:key="nexus_7_threadname8">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link8" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7_threadname9" android:key="nexus_7_threadname9">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link9" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7_threadname10" android:key="nexus_7_threadname10">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link10" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7_threadname11" android:key="nexus_7_threadname11">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link11" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7_threadname12" android:key="nexus_7_threadname12">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link12" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7_threadname13" android:key="nexus_7_threadname13">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7_thread_link13" />
+                    </Preference>
+                </PreferenceScreen>
+                <PreferenceScreen android:title="@string/nexus_7.2" android:summary="@string/nexus_7.2.1">
+                    <Preference android:title="@string/nexus_7.2_threadname1" android:key="nexus_7.2_threadname1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link1" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7.2_threadname2" android:key="nexus_7.2_threadname2" android:summary="@string/nexus_7.2_threadname2.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link2" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7.2_threadname3" android:key="nexus_7.2_threadname3" android:summary="@string/nexus_7.2_threadname3.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link3" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7.2_threadname4" android:key="nexus_7.2_threadname4">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link4" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7.2_threadname5" android:key="nexus_7.2_threadname5">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link5" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7.2_threadname6" android:key="nexus_7.2_threadname6" android:summary="@string/nexus_7.2_threadname6.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link6" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7.2_threadname7" android:key="nexus_7.2_threadname7" android:summary="@string/nexus_7.2_threadname7.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link7" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7.2_threadname8" android:key="nexus_7.2_threadname8">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link8" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7.2_threadname9" android:key="nexus_7.2_threadname9">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link9" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7.2_threadname10" android:key="nexus_7.2_threadname10">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link10" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_7.2_threadname11" android:key="nexus_7.2_threadname11" android:summary="@string/nexus_7.2_threadname11.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_7.2_thread_link11" />
+                    </Preference>
+                </PreferenceScreen>
+                <PreferenceScreen android:title="@string/nexus_10" android:summary="@string/nexus_10.1">
+                    <Preference android:title="@string/nexus_10_threadname1" android:key="nexus_10_threadname1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_10_thread_link1" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_10_threadname2" android:key="nexus_10_threadname2">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_10_thread_link2" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_10_threadname3" android:key="nexus_10_threadname3">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_10_thread_link3" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_10_threadname4" android:key="nexus_10_threadname4">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_10_thread_link4" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_10_threadname5" android:key="nexus_10_threadname5" android:summary="@string/nexus_10_threadname5.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_10_thread_link5" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_10_threadname6" android:key="nexus_10_threadname6" android:summary="@string/nexus_10_threadname6.1">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_10_thread_link6" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_10_threadname7" android:key="nexus_10_threadname7">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_10_thread_link7" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_10_threadname8" android:key="nexus_10_threadname8">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_10_thread_link8" />
+                    </Preference>
+                    <Preference android:title="@string/nexus_10_threadname9" android:key="nexus_10_threadname9">
+                        <intent android:action="android.intent.action.VIEW" android:data="@string/nexus_10_thread_link9" />
+                    </Preference>
+                </PreferenceScreen>
+            </PreferenceCategory>
         </PreferenceScreen>
         <PreferenceScreen android:title="@string/HTC_handy">
             <PreferenceScreen android:title="@string/htc_ones" android:summary="@string/htc_ones.1">
@@ -750,7 +754,7 @@
             </PreferenceScreen>
         </PreferenceScreen>
         <PreferenceScreen android:title="@string/samsung_handy">
-            <PreferenceScreen android:title="@string/galaxy_s_geräte">
+            <PreferenceCategory android:title="@string/galaxy_s_geräte">
                 <PreferenceScreen android:title="@string/samsung_galaxy_s3" android:summary="@string/samsung_galaxy_s3.1">
                     <Preference android:title="@string/samsung_galaxy_s3_threadname1" android:key="samsung_galaxy_s3_threadname1">
                         <intent android:action="android.intent.action.VIEW" android:data="@string/samsung_galaxy_s3_thread_link1" />
@@ -836,8 +840,8 @@
                         <intent android:action="android.intent.action.VIEW" android:data="@string/samsung_galaxy_s4_thread_link11" />
                     </Preference>
                 </PreferenceScreen>
-            </PreferenceScreen>
-            <PreferenceScreen android:title="@string/galaxy_note_geräte">
+            </PreferenceCategory>
+            <PreferenceCategory android:title="@string/galaxy_note_geräte">
                 <PreferenceScreen android:title="@string/note_3" android:summary="@string/note_3.1">
                     <Preference android:title="@string/note_3_threadname1" android:key="note_3_threadname1">
                         <intent android:action="android.intent.action.VIEW" android:data="@string/note_3_thread_link1" />
@@ -924,8 +928,8 @@
                         <intent android:action="android.intent.action.VIEW" android:data="@string/note_3_thread_link28" />
                     </Preference>
                 </PreferenceScreen>
-            </PreferenceScreen>
-            <PreferenceScreen android:title="@string/galaxy_tab_geräte">
+            </PreferenceCategory>
+            <PreferenceCategory android:title="@string/galaxy_tab_geräte">
                 <PreferenceScreen android:title="@string/tab_2" android:summary="@string/tab_2.1">
                     <Preference android:title="@string/tab_2_threadname1" android:key="tab_2_threadname1">
                         <intent android:action="android.intent.action.VIEW" android:data="@string/tab_2_thread_link1" />
@@ -996,8 +1000,8 @@
                         <intent android:action="android.intent.action.VIEW" android:data="@string/galaxy_tab3_thread_link7" />
                     </Preference>
                 </PreferenceScreen>
-            </PreferenceScreen>
-            <PreferenceScreen android:title="@string/galaxy_andere_geräte">
+            </PreferenceCategory>
+            <PreferenceCategory android:title="@string/galaxy_andere_geräte">
                 <PreferenceScreen android:title="@string/samsung_galaxy_y" android:summary="@string/samsung_galaxy_y.1">
                     <Preference android:title="@string/samsung_galaxy_y_threadname1" android:key="samsung_galaxy_y_threadname1">
                         <intent android:action="android.intent.action.VIEW" android:data="@string/samsung_galaxy_y_thread_link1" />
@@ -1054,7 +1058,7 @@
                         <intent android:action="android.intent.action.VIEW" android:data="@string/samsung_galaxy_y_thread_link18" />
                     </Preference>
                 </PreferenceScreen>
-            </PreferenceScreen>
+            </PreferenceCategory>
         </PreferenceScreen>
         <PreferenceScreen android:title="@string/huawei_handy">
             <PreferenceScreen android:title="@string/huawei_p6" android:summary="@string/huawei_p6.1">
@@ -1106,6 +1110,106 @@
             </PreferenceScreen>
         </PreferenceScreen>
         <PreferenceScreen android:title="@string/sony_handy">
+            <PreferenceScreen android:title="@string/sony_xperia_s" android:summary="@string/sony_xperia_s.1">
+                <Preference android:title="@string/sony_xperia_s_threadname1" android:key="sony_xperia_s_threadname1" android:summary="@string/sony_xperia_s_threadname1.1">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link1" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_s_threadname2" android:key="sony_xperia_s_threadname2">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link2" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_s_threadname3" android:key="sony_xperia_s_threadname3">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link3" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_s_threadname4" android:key="sony_xperia_s_threadname4">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link4" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_s_threadname5" android:key="sony_xperia_s_threadname5" android:summary="@string/sony_xperia_s_threadname5.1">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link5" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_s_threadname6" android:key="sony_xperia_s_threadname6" android:summary="@string/sony_xperia_s_threadname6.1">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link6" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_s_threadname7" android:key="sony_xperia_s_threadname7">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link7" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_s_threadname8" android:key="sony_xperia_s_threadname8">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link8" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_s_threadname9" android:key="sony_xperia_s_threadname9">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link9" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_s_threadname10" android:key="sony_xperia_s_threadname10">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link10" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_s_threadname11" android:key="sony_xperia_s_threadname11">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link11" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_s_threadname12" android:key="sony_xperia_s_threadname12">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link12" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_s_threadname13" android:key="sony_xperia_s_threadname13">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link13" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_s_threadname14" android:key="sony_xperia_s_threadname14">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link14" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_s_threadname15" android:key="sony_xperia_s_threadname15">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link15" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_s_threadname16" android:key="sony_xperia_s_threadname16">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link16" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_s_threadname17" android:key="sony_xperia_s_threadname17" android:summary="@string/sony_xperia_s_threadname17.1">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link17" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_s_threadname18" android:key="sony_xperia_s_threadname18">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link18" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_s_threadname19" android:key="sony_xperia_s_threadname19">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link19" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_s_threadname20" android:key="sony_xperia_s_threadname20">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link20" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_s_threadname21" android:key="sony_xperia_s_threadname21">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link21" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_s_threadname22" android:key="sony_xperia_s_threadname22">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_s_thread_link22" />
+                </Preference>
+            </PreferenceScreen>
+            <PreferenceScreen android:title="@string/sony_xperia_j" android:summary="@string/sony_xperia_j.1">
+                <Preference android:title="@string/sony_xperia_j_threadname1" android:key="sony_xperia_j_threadname1">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_j_thread_link1" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_j_threadname2" android:key="sony_xperia_j_threadname2">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_j_thread_link2" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_j_threadname3" android:key="sony_xperia_j_threadname3">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_j_thread_link3" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_j_threadname4" android:key="sony_xperia_j_threadname4">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_j_thread_link4" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_j_threadname5" android:key="sony_xperia_j_threadname5">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_j_thread_link5" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_j_threadname6" android:key="sony_xperia_j_threadname6">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_j_thread_link6" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_j_threadname7" android:key="sony_xperia_j_threadname7">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_j_thread_link7" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_j_threadname8" android:key="sony_xperia_j_threadname8">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_j_thread_link8" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_j_threadname9" android:key="sony_xperia_j_threadname9">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_j_thread_link9" />
+                </Preference>
+                <Preference android:title="@string/sony_xperia_j_threadname10" android:key="sony_xperia_j_threadname10">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/sony_xperia_j_thread_link10" />
+                </Preference>
+            </PreferenceScreen>
             <PreferenceScreen android:title="@string/sony_xperia_z" android:summary="@string/sony_xperia_z.1">
                 <Preference android:title="@string/xperia_z_threadname1" android:key="xperia_z_threadname1" android:summary="@string/xperia_z_threadname1.1">
                     <intent android:action="android.intent.action.VIEW" android:data="@string/xperia_z_thread_link1" />
@@ -1213,33 +1317,100 @@
                 </Preference>
             </PreferenceScreen>
         </PreferenceScreen>
+        <PreferenceScreen android:title="@string/motorola_handy">
+            <PreferenceScreen android:title="@string/motorola_razr" android:summary="@string/motorola_razr.1">
+                <Preference android:title="@string/motorola_razr_threadname1" android:key="motorola_razr_threadname1" android:summary="@string/motorola_razr_threadname1.1">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link1" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname2" android:key="motorola_razr_threadname2" android:summary="@string/motorola_razr_threadname2.1">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link2" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname3" android:key="motorola_razr_threadname3" android:summary="@string/motorola_razr_threadname3.1">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link3" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname4" android:key="motorola_razr_threadname4">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link4" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname5" android:key="motorola_razr_threadname5" android:summary="@string/motorola_razr_threadname5.1">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link5" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname6" android:key="motorola_razr_threadname6" android:summary="@string/motorola_razr_threadname6.1">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link6" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname7" android:key="motorola_razr_threadname7">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link7" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname8" android:key="motorola_razr_threadname8">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link8" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname9" android:key="motorola_razr_threadname9" android:summary="@string/motorola_razr_threadname9.1">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link9" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname10" android:key="motorola_razr_threadname10">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link10" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname11" android:key="motorola_razr_threadname11">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link11" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname12" android:key="motorola_razr_threadname12">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link12" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname13" android:key="motorola_razr_threadname13">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link13" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname14" android:key="motorola_razr_threadname14">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link14" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname15" android:key="motorola_razr_threadname15">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link15" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname16" android:key="motorola_razr_threadname16">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link16" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname17" android:key="motorola_razr_threadname17">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link17" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname18" android:key="motorola_razr_threadname18">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link18" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname19" android:key="motorola_razr_threadname19">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link19" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname20" android:key="motorola_razr_threadname20">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link20" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname21" android:key="motorola_razr_threadname21">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link21" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname22" android:key="motorola_razr_threadname22" android:summary="@string/motorola_razr_threadname22.1">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link22" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname23" android:key="motorola_razr_threadname23">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link23" />
+                </Preference>
+                <Preference android:title="@string/motorola_razr_threadname24" android:key="motorola_razr_threadname24" android:summary="@string/motorola_razr_threadname24.1">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/motorola_razr_thread_link24" />
+                </Preference>
+            </PreferenceScreen>
+        </PreferenceScreen>
     </PreferenceScreen>
     <PreferenceScreen android:icon="@drawable/ic_about" android:title="@string/about">
         <PreferenceScreen android:title="@string/dev_team" android:key="dev_team">
             <Preference android:title="@string/vertrieb" android:key="dev" android:summary="@string/vertrieb_summary">
                 <intent android:action="android.intent.action.VIEW" android:data="@string/vertrieb_profil" />
             </Preference>
-            <Preference android:title="@string/dev_name" android:key="dev" android:summary="@string/dev">
-            </Preference>
-            <Preference android:title="@string/dev_borgerapper" android:key="dev_borgerapper" android:summary="Co-App Entwickler, alle Nexus Geräte, Galaxy Y, Galaxy S3, Ascend P6, Xperia Z">
-            </Preference>
-            <Preference android:title="@string/dev_stp402" android:key="dev_stp402" android:summary="Icons, Unterstützung der Enwicklung, G2">
-            </Preference>
-            <Preference android:title="@string/dev_Sgt.Sledge" android:key="dev_Sgt.Sledge" android:summary="Xperia Z1">
-            </Preference>
-            <Preference android:title="@string/dev_Benski_84" android:key="dev_Benski_84" android:summary="One X, One X+">
-            </Preference>
-            <Preference android:title="@string/dev_holger_2001" android:key="dev_holger_2001" android:summary="Galaxy Tab 2, Galaxy Note 3, Optimus L9">
-            </Preference>
-            <Preference android:title="@string/dev_Androiddoktor" android:key="dev_Androiddoktor" android:summary="Optimus Speed">
-            </Preference>
-            <Preference android:title="@string/dev_Krocko" android:key="dev_Krocko" android:summary="One, One S">
-            </Preference>
-            <Preference android:title="@string/dev_BWFighter" android:key="dev_BWFighter" android:summary="One mini">
-            </Preference>
+            <Preference android:title="@string/dev_name" android:key="dev" android:summary="@string/dev" />
+            <Preference android:title="@string/dev_borgerapper" android:key="dev_borgerapper" android:summary="Co-App Entwickler, alle Nexus Geräte, Galaxy Y, Galaxy S3, Ascend P6, Xperia Z, RAZR, Xperia J, Xperia S" />
+            <Preference android:title="@string/dev_stp402" android:key="dev_stp402" android:summary="Icons, Unterstützung der Enwicklung, G2" />
+            <Preference android:title="@string/dev_Sgt.Sledge" android:key="dev_Sgt.Sledge" android:summary="Xperia Z1" />
+            <Preference android:title="@string/dev_Benski_84" android:key="dev_Benski_84" android:summary="One X, One X+" />
+            <Preference android:title="@string/dev_holger_2001" android:key="dev_holger_2001" android:summary="Galaxy Tab 2, Galaxy Note 3, Optimus L9" />
+            <Preference android:title="@string/dev_Androiddoktor" android:key="dev_Androiddoktor" android:summary="Optimus Speed" />
+            <Preference android:title="@string/dev_Krocko" android:key="dev_Krocko" android:summary="One, One S" />
+            <Preference android:title="@string/dev_BWFighter" android:key="dev_BWFighter" android:summary="One mini" />
         </PreferenceScreen>
         <Preference android:title="@string/email" android:key="email" android:summary="@string/email_dev">
-            <intent android:action="android.intent.action.VIEW" android:data="mailto:maikdiebenkorn@gmail.com" />
+            <intent android:action="android.intent.action.VIEW" android:data="mailto:handyfaq.appinfo@gmail.com" />
         </Preference>
         <Preference android:title="@string/app_version" android:key="app_version" android:summary="@string/version" />
     </PreferenceScreen>
